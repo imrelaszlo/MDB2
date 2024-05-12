@@ -993,6 +993,7 @@ class MDB2_Error extends PEAR_Error
  * @category    Database
  * @author      Lukas Smith <smith@pooteeweet.org>
  */
+#[AllowDynamicProperties]
 class MDB2_Driver_Common
 {
     // {{{ Variables (Properties)
