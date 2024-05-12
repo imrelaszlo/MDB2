@@ -7,6 +7,10 @@
   "license": "BSD-2-Clause",
   "authors": [
     {
+      "name": "Kentaro Ohkouchi",
+      "email": "nanasess@fsm.ne.jp"
+    },
+    {
       "name": "Laszlo Imre",
       "email": "it@imrelaszlo.hu"
     }
