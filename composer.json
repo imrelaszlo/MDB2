@@ -1,5 +1,5 @@
 {
-  "name": "imrelaszlo/mdb2",
+  "name": "imrelaszlo/pear-mdb2",
   "description": "PEAR MDB2 is a merge of the PEAR DB and Metabase php database abstraction layers.",
   "type": "library",
   "keywords": [ "database", "orm", "dbal", "metabase" ],
