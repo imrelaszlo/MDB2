@@ -24,6 +24,7 @@
           "MDB2": ""
       }
   },
+  "type": "library",
   "include-path": [
       "./"
   ]
