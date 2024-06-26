@@ -1696,6 +1696,7 @@ class MDB2_BufferedResult_mysqli extends MDB2_Result_mysqli
  * @category Database
  * @author  Lukas Smith <smith@pooteeweet.org>
  */
+#[AllowDynamicProperties]
 class MDB2_Statement_mysqli extends MDB2_Statement_Common
 {
     // {{{ _execute()
